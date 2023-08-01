@@ -92,7 +92,7 @@
 		</td>
 		  <td align="center">
 			<a href="https://jestjs.io/" targer="_blank">
-		  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-original.svg" height="50" alt="tailwindcss logo" />
+		  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2Fjest-github-reporter%2Fv%2F1.0.3-canary.136.0d18f31.0&psig=AOvVaw36_PaRB55IYIqgO7XK1Yyt&ust=1691012633832000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDW1oy3vIADFQAAAAAdAAAAABAF" height="50" alt="tailwindcss logo" />
 			</a>
 		  <br />
 		  Jest
