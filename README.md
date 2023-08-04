@@ -53,7 +53,7 @@
 		  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="50" alt="sass logo" />
 		</a>
 		  <br />
-		  Sass
+		  SASS
 		</td>
 		<td align="center">
 			<a href="https://react.dev/" targer="_blank">
