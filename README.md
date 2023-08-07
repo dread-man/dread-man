@@ -2,7 +2,6 @@
 
 ###
 	 
-
 	
 <div align="center">
 	  <a href="mailto:davidvorona112@gmail.com" targer="_blank">
