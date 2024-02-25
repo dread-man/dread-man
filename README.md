@@ -125,7 +125,7 @@
 		  </td>
 		  <td align="center">
 			<a href="https://nestjs.com/" target="_blank">
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="50" alt="nestjs logo" />
+			<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg](https://nestjs.com/logo-small.ede75a6b.svg)" height="50" alt="nestjs logo" />
 			</a>
 			<br/>Nest.js
 		  </td>
